@@ -1,0 +1,6 @@
+#This .gitignore results in tracking all files in src/ plus only venv/*/requirements.txt
+#!project_dev/
+#!project_prod/
+#project_dev/*
+#project_prod/*
+#!**/requirements.txt

@@ -1,0 +1,16 @@
+# This .gitignore results in tracking all files in src/
+!venv/
+venv/*
+
+# Plus the pip requirements file for both virtual environments
+!venv/project_dev/
+venv/project_dev/*
+!venv/project_dev/requirements.txt
+
+!venv/project_prod/
+venv/project_prod/*
+!venv/project_prod/requirements.txt
+
+# As well as the sample .gitignore file if desiring the same result 
+# with a .gitignore in venv/
+!venv/.gitignore
