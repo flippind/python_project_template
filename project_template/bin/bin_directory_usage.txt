@@ -1,0 +1,3 @@
+In this directory would go all executable files or dlls used by your package.
+Pure python packages will have nothing here, but if it calls any external 
+executable, that executable should be packaged here.

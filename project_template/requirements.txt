@@ -1,0 +1,4 @@
+# Best practice with this requirements file is to manually go over the src/
+# files and all the import libraries manually
+# Using pip freeze > requirements.txt adds all secondary dependencies, which should be unnecessary
+# Ensure not to include testing [unittest, pytest, nose2, etc.] or development specific packages [pydoc, pylint, etc.] here

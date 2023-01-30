@@ -1,0 +1,3 @@
+The /docs/ directory is for additonal, comprehensive documentation for the package.
+This could be HTML, rich-text, or PDF documents.
+This directory also serves for the source on Github pages, MkDocs, or readthedocs sites.

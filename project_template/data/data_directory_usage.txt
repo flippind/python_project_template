@@ -1,0 +1,5 @@
+The data/ directory is used if you've used supporting helper files for package
+configuration or use.
+Common examples are global parameter or variable values or database files
+
+A .gitignore file may be required here
